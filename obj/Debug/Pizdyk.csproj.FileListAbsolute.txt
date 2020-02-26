@@ -1,0 +1,10 @@
+C:\CodeBase\TestBot\bin\Debug\TestBot.exe.config
+C:\CodeBase\TestBot\bin\Debug\TestBot.exe
+C:\CodeBase\TestBot\bin\Debug\TestBot.pdb
+C:\CodeBase\TestBot\bin\Debug\Newtonsoft.Json.dll
+C:\CodeBase\TestBot\bin\Debug\Telegram.Bot.dll
+C:\CodeBase\TestBot\bin\Debug\Newtonsoft.Json.xml
+C:\CodeBase\TestBot\bin\Debug\Telegram.Bot.xml
+C:\CodeBase\TestBot\obj\Debug\Pizdyk.csproj.CopyComplete
+C:\CodeBase\TestBot\obj\Debug\TestBot.exe
+C:\CodeBase\TestBot\obj\Debug\TestBot.pdb
